@@ -891,7 +891,7 @@ a {
 
 #tea .tea-image{
     background:linear-gradient(rgb(59, 59, 59,.3),rgb(59, 59, 59,.3)),
-                url(https://images.pexels.com/photos/221000/pexels-photo-221000.png?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) center/cover fixed no-repeat;
+                url(https://d.newsweek.com/en/full/666645/un-general-assembly.jpg) center/cover fixed no-repeat;
     height: 70vh;
     position: relative;
 }
@@ -2105,7 +2105,7 @@ a {
 
 @media (max-width: 767.98px) { 
     .header-body{
-        background: linear-gradient(#90E0EF, #0077B6), 
+        background: linear-gradient(#f6f480, #ffd53e), 
                      center center/cover no-repeat ;
     }
 
