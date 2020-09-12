@@ -395,7 +395,7 @@ a {
 .div2-cont {
     width: 100vw;
    background-image: url("../img/backgroundleaf.jpg");
-   height: 94vh;
+   height: 100vh;
 }
 
 .div-2{
@@ -2452,7 +2452,7 @@ a {
     padding-left: 5vw;
     padding-right: 5vw;
     font-family: TropicalAsianDemoRegular-11V0;
-    font-size: 4rem;
+    font-size: 50px;
     color: black;
     background-color: #b9e769;
     border-radius: 10px;
