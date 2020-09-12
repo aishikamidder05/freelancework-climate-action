@@ -64,13 +64,13 @@ font-family: 'Kaushan Script', cursive;
 /* scrollreveal */
 
 .div2-head{
-   
+    text-align: center;
     font-family: var(--title-text);
     font-size: 8vh;
     margin-top: 15%;
     background-color: lightgreen;
     border-radius: 25px;
-    padding-left: 10%;
+    /* padding-left: 10%; */
 }
 
 
@@ -394,7 +394,8 @@ a {
 }
 .div2-cont {
     width: 100vw;
-   background-image: url("../img/backgroundleaf.jpg");
+   /* background-image: url("../img/backgroundleaf.jpg"); */
+   background-color: lightskyblue;
    height: 100vh;
 }
 
@@ -439,7 +440,7 @@ a {
 }
 
 .content-box{
-    height: 30vh;
+    height: 40vh;
 }
 
 @media(max-width:500px){
@@ -499,7 +500,8 @@ a {
     /* background: linear-gradient(rgba(255,255,255,.4),rgba(255, 255, 255, .4)), 
                 url(/img/welcome-parallax.jpg) center/cover fixed no-repeat;
     background-size: 400px; */
-    margin-top: 8.5rem;
+    /* margin-top: 8.5rem; */
+    margin-top: 0px;
 }
 
 .heading{
@@ -512,7 +514,7 @@ a {
 
 #welcome .first-column,
 #welcome .last-column{
-    padding: 8rem 0;
+    /* padding: 8rem 0; */
 }
 #welcome .first-column .heading,
 #welcome .last-column .heading{
@@ -2448,7 +2450,7 @@ a {
 }
 
 .quote2{
-    margin-top: 6vh;
+    margin-top: 2vh;
     padding-left: 5vw;
     padding-right: 5vw;
     font-family: TropicalAsianDemoRegular-11V0;
