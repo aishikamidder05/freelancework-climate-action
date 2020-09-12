@@ -395,7 +395,7 @@ a {
 .div2-cont {
     width: 100vw;
    background-image: url("../img/backgroundleaf.jpg");
-   height: 80vh;
+   height: 94vh;
 }
 
 .div-2{
@@ -439,7 +439,7 @@ a {
 }
 
 .content-box{
-    height: 24vh;
+    height: 30vh;
 }
 
 @media(max-width:500px){
@@ -2463,10 +2463,18 @@ a {
 }
 
 .UNImage>img{
-    height: 60vh; 
-    width: auto ; 
+    height: auto; 
+    width: 45vw ; 
     border-radius: 20px;
     margin-top: 2vh;
+}
+
+.saffin{
+    height: 152px;width: 116px;padding-top: 50px;
+}
+
+.foot2{
+    height: 152px;width: 116px;
 }
 
 @media (max-width: 767.98px) {
@@ -2490,6 +2498,10 @@ a {
 
     .bottom-text{
         font-size: 15px;
+    }
+
+    .saffin{
+        height: 38px;width: unset;padding-top: unset;
     }
 
 }
