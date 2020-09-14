@@ -2481,6 +2481,20 @@ a {
     height: 152px;width: 116px;
 }
 
+.globeIconPhone{
+    display: none !important;
+}
+
+/* .footImg1{
+    width: 23vw;
+    height: 13vh;
+}
+
+.footImg2{
+    width: 23vw;
+    height: 13vh;
+} */
+
 @media (max-width: 767.98px) {
     .quote2{
         height: 73vw;
@@ -2508,6 +2522,14 @@ a {
 
     .saffin{
         height: 38px;width: unset;padding-top: unset;
+    }
+
+    .globeIconDesktop{
+        display: none !important;
+    }
+
+    .globeIconPhone{
+        display: inline !important;
     }
 
 }
