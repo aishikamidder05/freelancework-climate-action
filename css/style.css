@@ -197,7 +197,7 @@ a {
 
 .nav-scrolled .nav-link {
     color: var(--dark) !important;
-    font: 13px var(--paragraph-text);
+    font: 37px var(--paragraph-text);
     padding: 0 12px !important;
     transition: all .5s ease-out;
     margin-right: 5px;
