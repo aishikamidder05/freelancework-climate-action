@@ -389,11 +389,11 @@ a {
 .header-body{
     background:  linear-gradient( #ccf5ff, #8ed7f5),  
                 url() left center/cover no-repeat ;
-    height: 80vh;
+    height: 17vh;
     position: relative;
 }
 .div2-cont {
-    width: 100vw;
+    /* width: 100vw; */
    /* background-image: url("../img/backgroundleaf.jpg"); */
    background-color: lightskyblue;
    height: 100vh;
@@ -2059,7 +2059,7 @@ a {
     }
 
     #header .header-img{
-        width: 25%;
+        /* width: 25%; */
     }
 
     .column-content {
@@ -2307,7 +2307,7 @@ a {
 
 @media (max-width: 575.98px){
     .header-body {
-        height: 100vh;
+        height: 10vh;
     }
 
     .hero-wrap {
@@ -2481,19 +2481,7 @@ a {
     height: 152px;width: 116px;
 }
 
-.globeIconPhone{
-    display: none !important;
-}
 
-/* .footImg1{
-    width: 23vw;
-    height: 13vh;
-}
-
-.footImg2{
-    width: 23vw;
-    height: 13vh;
-} */
 
 @media (max-width: 767.98px) {
     .quote2{
@@ -2524,12 +2512,8 @@ a {
         height: 38px;width: unset;padding-top: unset;
     }
 
-    .globeIconDesktop{
-        display: none !important;
-    }
-
-    .globeIconPhone{
-        display: inline !important;
+    .mobileGlobe{
+        width: 52vw;
     }
 
 }
